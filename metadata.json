@@ -1,0 +1,6 @@
+{
+  "name": "Bộ Thủ Thư Pháp",
+  "description": "Ứng dụng học 214 bộ thủ chữ Hán phồn thể thông minh. Tra cứu nét vẽ canvas sử dụng AI, phân tích cấu tạo đoán nghĩa chữ Hán, học Leitner và nhắc nhở ôn tập hàng ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
